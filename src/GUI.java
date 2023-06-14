@@ -2,12 +2,13 @@ import javax.swing.*;
 import java.util.*;
 import java.awt.*;
 
+public class GUI extends JFrame {
 
-public class GUI extend JFrame{
-    public GUI(){
+    public GUI() {
         this.setTitle("Buscaminas");
-        this.
+        this.setSize(1286, 829);
     }
-    
-    public void dos(){}
+
+    public void dos() {
+    }
 }
